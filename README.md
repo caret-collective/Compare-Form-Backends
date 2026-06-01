@@ -3,10 +3,10 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/Document.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/twocaretcat/Compare-Form-Backends.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/twocaretcat/Compare-Form-Backends.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/caret-collective/Compare-Form-Backends.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/caret-collective/Compare-Form-Backends.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/twocaretcat/Compare-Form-Backends.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/caret-collective/Compare-Form-Backends.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
 
